@@ -2,6 +2,9 @@ Mit seinem Buch "Roboter bauen mit Arduino" liefert der Autor Markus Knapp eine 
 
 Bevor mit dem eigentlichen Roboter losgelegt wird, führt der Autor zunächst die verschiedenen Komponenten ein und erklärt die Theorie hinter den Teilen und die Programmierung der Sensoren, Motoren usw. 
 
+A1. Zielgruppe
+
+Der Autor gibt eine relativ breite Zielgruppe für sein Buch an, welche vom Grundschüler bis zum Lehrer reicht. Jüngere Schüler könnten an der ein oder anderen Stelle ohne Hilfe von außen etwas schwieriger vorankommen, aber mit ein bisschen Unterstützung dürten sie mit dem Buch auch gut klarkommen. Programmierkenntnisse sind für das Buch absolut nicht erforderlich. Spaß am Basteln mit Computern und Lernen sollte man natürlich haben, ansonsten sind aber keine Voraussetzungen zu erfüllen. 
 
 A1. Inhalt
 
@@ -26,11 +29,15 @@ Die Kapitel 10 und 11 beschäftigen sich mit zusätzlichen Erweiterungsmöglichk
 
 Das Buch endet mit einer kurzen Zusammenfassung und dem Index, der übersichtlich aufgebaut ist und die wichtigsten Stellen zum jeweiligen Stichwort liefert. 
 
-Fazit:
+A1. Stil
+
+Man wird als Leser vom Autor gesiezt und direkt angesprochen. Der Schreibtstil lässt sich am besten als locker und sachlich beschreiben. In vielen Computerbüchern finden sich mittlerweile mehr oder weniger gut gelungene Witze und lustige Sprüche, darauf verzichtet Markus Knapp in diesem Buch und zeigt, dass es diese auch nicht braucht, um ein gut lesbares Buch zu schreiben. 
+
+A1. Fazit
+
+Das Buch erfüllt seinen Zweck und der Leser sollte nach dem Lesen (und Mitbasteln) einen bewegungsfähigen Roboter haben. 
 Reihenfolge und Informationsgehalt teilweise ausbaubar.
 Einzelne Erklärungen wie Ohmsches Gesetz eher schwach
 Das siebte Kapitel mit dem ersten Nutzen des Arduino ingesamt sehr schön, auch wenn die Reihenfolge der Erklärungen nicht immer nachvollziehbar ist. 
 Gute Erklärungen auch über das für den Roboter notwendige Grundwissen hinaus, aber natürlich kann vieles in so einem Buch nicht erschöpfend behandelt werden. Dafür gibt der Autor aber sehr viele Links und Quellen in den Fußnoten an, so dass der interessierte Leser schnell tiefergehende Informationen erhalten kann.
 
-Zielgruppe
-Der Autor gibt eine relativ breite Zielgruppe für sein Buch an, welche vom Grundschüler bis zum Lehrer reicht. Programmierkenntnisse sind für das Buch absolut nicht erforderlich. Spaß am Basteln und Lernen sollte man haben, ansonsten sind keine Voraussetzungen zu erfüllen. man keine weiteren Ressourcen benötigt, außer der persönlichen Schutzausrüstung fürs Löten
