@@ -1,13 +1,3 @@
-Hallo Dominik,
-
-hier folgt meine Rezension zum Arduino-Buch. Ist der Rezi-Dank für den Rheinwerk-Verlag so korrekt?
-
-Gruß,
-
-Christian
-
-
-
 %TAGS: Rezension, Buch, Arduino
 %Kategorie: Rezension
 % keine Webseite
