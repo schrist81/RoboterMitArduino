@@ -19,7 +19,7 @@ Im vierten Kapitel werden die üblichen Grundlagen von Java-Programmen erklärt.
 
 Kapitel fünf behandelt das Thema Referenzdatentypen. Die Autoren steigen in dieses Thema mit einem Terminkalender als anschaulichem Beispiel dafür ein, welchen Vorteil diese Datentypen haben. Als erstes werden eindimensionale Arrays genauer erklärt. Der Terminkalender taucht im weiteren Verlauf des Kapitels wieder auf und wird mit dem neu gelernten Wissen verbessert und zum Beispiel unter Verwendung mehrdimensionaler Arrays umgesetzt. Auch im nächsten Abschnitt wird der Terminkalender mit Einführung des Klassen-Konzepts zur Adressverwaltung weiterentwickelt. Insgesamt ein sehr gutes Kapitel - die für Anfänger häufig schwierigen Themen Arrays und Klassen sind anschaulich und gut nachvollziehbar erklärt. 
 
-In Kapitel sechs werden Methoden eingeführt und deren Verwendung an einer mathematischen Berechnungen erkärt. Der Beginner lernt unter anderem den grundsätzlichen Aufbau einer Methode, was es mit "call by value" oder "call by reference" auf sich hat und wie man Methoden überlädt. Es folgt ein Abschnitt über rekursiv definierte Methoden. 
+In Kapitel sechs werden Methoden eingeführt und deren Verwendung an einer mathematischen Berechnungen erkärt. Der Beginner lernt unter anderem den grundsätzlichen Aufbau einer Methode, was es mit "call by value" oder "call by reference" auf sich hat und wie man Methoden überlädt. Es folgt ein Abschnitt über rekursiv definierte Methoden, in dem auch ihre möglichen Probleme und Nachteile demonstriert werden. Die weiteren Abschnitte dieses Kapitels behandeln die main-Methode, das Aufrufen von Methoden aus anderen Klassen und von Objekten. 
 A1. Stil
 
 
