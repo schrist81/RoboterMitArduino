@@ -27,6 +27,7 @@ In Kapitel sechs werden Methoden eingeführt und deren Verwendung an einer mathe
 A1.1. Teil II: Objektorientieres Programmieren in Java
 
 Das erste Kapitel dieses Teil behandelt die Grundlagen und gibt Einblicke in die "philosophischen Grundlagen" der Objektorientierung. Der Einstieg erfolgt mit einem Vergleich zwischen dem bisher verfolgten Konzept der imperativen Programmierung und der nun zu lernenden objektorientierten Programmierung. Anschließend werden die vier Grundpfeiler Generalisierung, Vererbung, Kapselung und Polymorphismus erläutert. Auch hier werden die Konzepte schlüssig und mit anschaulichen Analogien erklärt. Die Autoren werfen anschließend noch einen kurzen Blick auf UML-Diagramme und Entwurfsmuster. Dies dient aber nur dazu, dass man als Anfänger weiß, was es mit diesen Dingen auf sich hat und die Autoren verweisen auf weitere Literatur zum Erlernen dieser Konzepte. 
+In Kapitel acht wird die grundlegende Umsetzung der zuvor besprochenen Konzepte in Java-Programmen beschrieben. Dies erfolgt anhand einer Klasse Student, die immer weiter in Übereinstimmung mit der objektorientierten Programmierung angepasst wird. Dies beinhaltet das korrekte Setzen der Sichtbarkeit, die Einführung der set- und get-Methoden, Klassen- und Instanzvariablen und vieles mehr. 
 A1. Stil
 
 
