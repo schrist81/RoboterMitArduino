@@ -34,6 +34,8 @@ Dieser Teil besteht aus fünf Kapiteln auf ca. 140 Seiten. Zunächst erhält der
 Im nächsten Kapitel stellen die Autoren zunächst dar, wie man in Swing-Komponenten auch zeichnen kann, so dass man seine grafische Benutzerobefläche über die vorhandenen Komponenten hinaus individuell und flexibler gestalten kann. 
 Das folgende Kapitel über Applets geht auf die Unterschiede zwischen Programmen und Applets ein und beschreibt, wie man Java-Applets in HTML-Seiten einbettet. Man erfährt zwar alles Nötige über die Programmierung selbst, allerdings wurden einige Aspekte, die darüber hinaus noch wichtig sein können, wenn überhaupt nur am Rande erwähnt, wie zum Beispiel Sicherheitsaspekte, die Abhängigkeit von der korrekten JRE usw. 
 
+A1.1. Teil IV: Threads, Datenströme und Netzwerkanwendungen
+Die bisher im Buch beschriebenen Programme hatte einen sehr einfachen Programmablauf. Die Erzeugung komplexerer Programme wird auf den folgenden ca. 85 Seiten in drei Kapiteln gelehrt. Das Kapitel über Threads bietet einen guten Überblick. Die Grundlagen werden gut erklärt und durch anschauliche (wenn auch eher praxisferne) Beispiele werden mögliche Probleme und Konflikte zwischen Threads anschaulich gemacht und Lösungen aufgezeigt. 
 
 A1. Stil
 
