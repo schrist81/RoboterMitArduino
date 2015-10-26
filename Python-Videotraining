@@ -23,7 +23,7 @@ Nachdem zwar auch im bisherigen Kursverlauf hin und wieder Fehler im Code auftau
 
 Das nachfolgende Kapitel 7, in dem die objektorientierte Programmierung eingeführt wird, ist eine solide Einführung, die die für einen Anfänger wichtigen Aspekte beleuchtet und eine gute Grundlage bildet, aber auch nicht mehr. Zum Abschluss wird das bereits früher verwendete Kopfrechenspiel als objektorientierte Version programmiert. Hier hätte der Autor allerdings ein etwas konzeptionelleres Arbeiten zeigen können. Die verschiedenen Klassen werden mit ihren Methoden einfach abgetippt und knapp erläutert, so dass das Spiel anschließend gut funktioniert, aber man lernt wenig über darüber, wie man von der Programmidee zu einem objektorientierten Programm gelangt. Die handwerklichen Grundlagen werden gelehrt, aber darüber hinaus erfährt man wenig. 
 
-In Kapitel 8 wird man gelehrt, wie man Dateien bearbeiten kann.
+In Kapitel 8 wird zeigt der Autor, wie man Dateien bearbeiten kann. Angefangen wird mit dem Lesen und Schreiben von einfachen Textdateien. Der Abschnitt mit dem Titel "Dateien für Excel erzeugen" beschränkt sich dann allerdings auf das Erzeugen und spätere Auslesen von csv-Dateien.
 
 
 
