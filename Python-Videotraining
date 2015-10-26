@@ -16,23 +16,31 @@ Nach einer kurzen Einführung beginnt der Sprecher und Autor Thomas Theis mit de
 Im zweiten Kapitel kann man zusammen mit dem Autor ein kleines Spiel für die Konsole programmieren. Die benötigten Kenntnisse werden nach und nach Kapitelweise erarbeitet und dadurch weitere Programmiergrundlagen gelegt. Dazu zählen Zuweisungen, Ein- und Ausgabe von Daten, Programmsteuerungen wie if-Bedingungen und Schleifen, Vergleichsoperatoren und Zufallszahlen. Besonders die Abschnitte, die Schleifen behandeln, sind sehr gut gelungen. Die verschiedenen Schleifen-Typen werden live ineinander umgewandelt und Hinweise gegeben, was bei den jeweiligen Schleifen besonders zu beachten ist. Für Programmier-Anfänger ist dies schön anschaulich. Außerdem wird am Ende noch das Programm Structorizer[en]{http://sourceforge.net/projects/structorizer/} zur Erstellung von Nassi-Schneiderman-Diagrammen vorgestellt.
 
 Rund um Zahlen und mathematische Operationen geht es zunächst im dritten Kapitel. Die verschiedenen Zahlensysteme werden gleich zu Beginn auch für Anfänger gut erklärt. Im zweiten Teil von Kapitel drei werden Eigenschaften von Zeichenketten erläutert, bevor einige der zur Verfügung stehenden Operationen mit Zeichenketten gezeigt werden. Auch hier werden in den jeweiligen Unterkapiteln wieder kleine Rechenspiele für die Konsole entwickelt, wobei die Spiele nach und nach mehr Funktionen erhalten und die Programmierung entsprechend komplexer wird. 
+Weitere Datentypen werden anschließend in Kapitel 4 vorgestellt. Die Unterschiede zwischen den Datentypen werden durch die zahlreichen Code-Beispiele und Abgrenzungen bei den Erklärungen zu einzelnen Datentypen des Autors gut verdeutlicht. 
+
+Kapitel 5 behandelt Funktionen, die Möglichkeiten sie aufzurufen, Rückgabewerte zu liefern und so weiter. Die Vorteile von Funktionen werden ebenfalls erläutert und werden bei den Erklärungen zum Erstellen von eigenen Modulen noch deutlicher. Nachdem die noch die Namensräume erklärt werden, wird das Rechenspiel aus den vorherigen Kapiteln neu gegliedert und erscheint auf einmal wieder schön übersichtlich. Erstmals erhält man in diesem Kapitel auch Hinweise auf die Dokumentation bzw. Hilfe zu Python und wo man zum Beispiel Informationen zu bereits vorhandenen Funktionen von Python suchen kann. 
+Nachdem zwar auch im bisherigen Kursverlauf hin und wieder Fehler im Code auftauchten und erklärt wurden, werden unter anderem diese in Kapitel 6 nun systematisch behandelt. Fehler macht man natürlich am besten selbst um aus ihnen zu lernen, aber durch das Sehen dieser Videos kann man wenigstens mit einigen Exceptions schon etwas anfangen und bekommt ein Gefühl für das Behandeln und Beseitigen von Fehlern. Die weiteren Teile von Kapitel 6 setzen sich aus gemischten Themen wie Zeit- und Datumsfunktionen und dem Übergeben von Kommandozeilenparametern zusammen. 
+
+Das nachfolgende Kapitel 7, in dem die objektorientierte Programmierung eingeführt wird, ist eine solide Einführung, die die für einen Anfänger wichtigen Aspekte beleuchtet und eine gute Grundlage bildet, aber auch nicht mehr. Zum Abschluss wird das bereits früher verwendete Kopfrechenspiel als objektorientierte Version programmiert. Hier hätte der Autor allerdings ein etwas konzeptionelleres Arbeiten zeigen können. Die verschiedenen Klassen werden mit ihren Methoden einfach abgetippt und erläutert, so dass das Spiel anschließend gut funktioniert, aber man lernt wenig über darüber, wie man von der Programmidee zu einem objektorientierten Programm gelangt. Die handwerklichen Grundlagen (Semantik) werden gelehrt, aber darüber hinaus erfährt man wenig. 
+
+In Kapitel 8 wird man gelehrt, wie man Dateien bearbeiten kann.
+
+
+
 
 
 
 A1. Kritik
-Übersetzen der Fachbegriffe (Set?)?
+Übersetzen der Fachbegriffe (Set?) Unterschiedliche Benennung der Kapitel zum Inhalt (Menge vs. Set, Wörterbücher vs. Dictionary, macht es für Anfänger eher schwieriger?
 Erläutern/Übersetzen der Funktionsnamen (int, sqrt, ...)
-Gutes Tempo, man kann sehr gut parallel mit programmmieren
+Gutes Tempo, man kann sehr gut parallel mit programmieren
 Variablenbezeichnung und Kommentare zu Beginn nicht gerade lehrbuchhaft
 Verweis auf Python 2.7?
 Man wird gesiezt
 
-Dieses Videotraining ist eine gute Einführung für das Umsetzen von Projekten mit dem Arduino. Die elektronischen Grundlagen und auch die Programmierung werden für die gezeigten Projekte ausreichend behandelt, darüber hinaus allerdings eher oberflächlich behandelt. Dies könnte es für Anfänger erschweren, eigene Projekte zu entwickeln, da eine systematische Einführung von Programmiergrundlagen zum Beispiel fehlt. Auch auf Fehlersuche und Debugging wird nicht eingegangen. Schade ist auch, dass zum Beispiel das Löten nicht genau erklärt und gezeigt wird. Gerade solche Dinge könnte man in einem Videotraining – im Vergleich zu einem Buch –  einfacher vorführen und zeigen.
-
 A1.1. Qualität der Videos
 
-Das Videotraining ist für Linux, Mac OS X und Windows verfügbar. Die Qualität der Videos ist sehr gut, allerdings wirkt der Sprachrhythmus des Autors nicht natürlich – teilweise verschluckt der Autor Worte oder spricht sehr stockend. Gerade den Sprachrhythmus empfindet man natürlich sehr subjektiv, daher sollte man bei Interesse am Videotraining vorher auf jeden Fall vorher auf der Homepage in das Video reingucken, ob einem der Sprecher zusagt. 
-Die technische Umsetzung ist ansonsten sehr gut, es gibt viele Kapitelmarken, eine klare Menüführung und eine Suchfunktion. Lesezeichen kann man ebenfalls setzen. Die Abspielgeschwindigkeit allerdings lässt sich nicht verändern. 
+
 
 A1. Fazit
 Die vorgestellten Projekte lassen sich wunderbar parallel zum Videotraining mit bauen. Zwar finden sich in einem Buch dieser Preisklasse wohl mehr und tiefere Informationen, als es im Videotraining möglich ist, wer aber lieber ein Video schaut statt ein Buch zu lesen, ist mit diesem Videotraining gut bedient. 
@@ -45,4 +53,4 @@ ISBN 978-3-8362-3536-5
 39,90 € (DVD, Download)
 
 Autoreninformation: Christian Schnell
-entwickelt unter anderem Python-Skripte um die Auswertung von Routine-Experimenten im Labor zu automatisieren und zu beschleunigen. 
+entwickelt unter anderem Python-Skripte um die Auswertung von Routine-Experimenten im Labor zu automatisieren und zu beschleunigen.
