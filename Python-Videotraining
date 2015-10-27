@@ -25,7 +25,7 @@ Das nachfolgende Kapitel 7, in dem die objektorientierte Programmierung eingefü
 
 In Kapitel 8 wird zeigt der Autor, wie man Dateien bearbeiten kann. Angefangen wird mit dem Lesen und Schreiben von einfachen Textdateien. Der Abschnitt mit dem Titel "Dateien für Excel erzeugen" beschränkt sich dann allerdings auf das Erzeugen und spätere Auslesen von csv-Dateien. Mithilfe der Python-Dokumentation lernt man zum Beispiel auch, wie man Informationen über Dateieigenschaften erhält. Am Ende des Kapitels wird das Kopfrechenspiel unter Anwendung des gerade Gelernten um eine Highscore-Liste ergänzt, die als csv-Datei gespeichert, geändert und gelesen wird. 
 
-Kapitel 9 beschäftigt sich damit, wie man mit Python auf SQL-Datenbanken zugreift und die verschiedenen Manipulationen der Tabellen und Datensätz durchführt. Die Einführung in SQL gestaltet sich sehr kurz und knapp, man sollte hier nicht erwarten, eine detaillierte Einführung in SQL oder das Design von Datenbanken zu erhalten. Für die ersten Schritte mit Python reicht es aber allemal. 
+Kapitel 9 beschäftigt sich damit, wie man mit Python auf SQL-Datenbanken zugreift und die verschiedenen Manipulationen der Tabellen und Datensätz durchführt. Die Einführung in SQL gestaltet sich sehr kurz und knapp, man sollte hier nicht erwarten, eine detaillierte Einführung in SQL oder das Design von Datenbanken zu erhalten. Für die ersten Schritte in SQLite reicht es aber allemal. Wer keine Datenbank in seinen Skripten benötigt, kann dieses Kapitel aber auch problemlos auslassen und direkt zu den grafischen Oberflächen in Kapitel 10 übergehen. 
 
 
 
