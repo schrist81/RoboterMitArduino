@@ -44,6 +44,7 @@ Variablenbezeichnung und Kommentare zu Beginn nicht gerade lehrbuchhaft
 Verweis auf Python 2.7?
 Man wird gesiezt
 Leider werden einige Dinge einfach gezeigt und erwähnt, ohne Gründe dafür zu nennen, warum sie so sind (zum Beispiel der Versatz beim Kontexmenü im Rahmen der Fortgeschrittenen GUIs oder die gestrichelte Linie bei den Tkinter-Ausklappmenüs, die man mit tearoff = 0 ausblenden kann).
+Mir fehlen ein bisschen die generellen Konzepte, es geht mehr ums handwerkliche
 
 A1.1. Qualität der Videos
 
