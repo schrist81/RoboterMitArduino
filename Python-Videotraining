@@ -30,13 +30,13 @@ Kapitel 9 beschäftigt sich damit, wie man mit Python auf SQL-Datenbanken zugrei
 Zunächst werden einfache grafische Oberflächen mithilfe tkinter erstellt. Verschiedene Widgets wie Buttons, Label und auch Widgets zum Auswählen von Eintragen wie Radio-Buttons und Select-Felder werden genauso wie das Auswerten von Mausereignissen sehr ausführlich vorgestellt. Eine gute Einführung für Anfänger in Python, um schnell die verschiedenen GUI-Elemente mit ihren Eigenschaften einsetzen zu können. Besonders im nächsten Kapitel über beispielsweise fortgeschrittene grafische Oberflächen macht sich das Videotraining sehr gut, da man das Verhalten der Elemente auf der Benutzeroberfläche sehr gut zeigen und erkennen kann. Besonders unerfahrene Nutzer können die Unterschiede in den Layoutmanagern hier vermutlich einfacher erkennen als in einem Buch. 
 
 
-
-
+Im 
 
 
 
 
 A1. Kritik
+Anders als in der Beschreibung, keine Hinweise auf die verschiedenen Python-Versionen und den Raspberry Pi
 Übersetzen der Fachbegriffe (Set?) Unterschiedliche Benennung der Kapitel zum Inhalt (Menge vs. Set, Wörterbücher vs. Dictionary, macht es für Anfänger eher schwieriger?
 Erläutern/Übersetzen der Funktionsnamen (int, sqrt, ...)
 Gutes Tempo, man kann sehr gut parallel mit programmieren
