@@ -11,7 +11,9 @@ ReziDank: Wiley-VCH
 
 A1. Inhalt
 
-Das Buch setzt sich im wesentlichen aus fünf Teilen zusammen. Der erste Teil mit dem Titel "Getting started with Python for Data Science" besteht aus vier Kapiteln, in denen zunächst einmal dargelegt wird, was Data Science eigentlich alles meint, welche Schritte in einer vollständigen Analyse durchgeführt werden müssen und warum Python hierfür eine sehr hilfreiche Programmiersprache ist. Weitere Abschnitte geben einen allgemeinen Überblick über Python und den Vorteil der Verwendung von der Python-Distribution Anaconda gerade im Data Science-Umfeld. Alle im Buch verwendeten Beispiele sind für Anaconda getestet, dessen Installation auch erklärt wird. Als nächstes geben die Autoren eine Einführung zur Nutzung des IPython Notebook und erklären dabei auch die Verwendung der auf der Homepage zum Buch zum Download angebotenen Quelltexte und Datensätze.
+Das Buch setzt sich im wesentlichen aus fünf Teilen zusammen. Der erste Teil mit dem Titel "Getting started with Python for Data Science" besteht aus vier Kapiteln, in denen zunächst einmal dargelegt wird, was Data Science eigentlich alles meint, welche Schritte in einer vollständigen Analyse durchgeführt werden müssen und warum Python hierfür eine sehr hilfreiche Programmiersprache ist. Weitere Abschnitte geben einen allgemeinen Überblick über Python und den Vorteil der Verwendung von der Python-Distribution Anaconda gerade im Data Science-Umfeld. Alle im Buch verwendeten Beispiele sind für Anaconda getestet, dessen Installation auch erklärt wird. Als nächstes geben die Autoren eine Einführung zur Nutzung des IPython Notebook und erklären dabei auch die Verwendung der auf der Homepage zum Buch zum Download angebotenen Quelltexte und Datensätze. Abgeschlossen wird Teil 1 mit einem kurzen Überblick über die Python-Grundlagen. 
+
+
 
 
 
