@@ -13,11 +13,14 @@ A1. Inhalt
 
 Das Buch setzt sich im wesentlichen aus fünf Teilen zusammen. Der erste Teil mit dem Titel "Getting started with Python for Data Science" besteht aus vier Kapiteln, in denen zunächst einmal dargelegt wird, was Data Science eigentlich alles meint, welche Schritte in einer vollständigen Analyse durchgeführt werden müssen und warum Python hierfür eine sehr hilfreiche Programmiersprache ist. Weitere Abschnitte geben einen allgemeinen Überblick über Python und den Vorteil der Verwendung von der Python-Distribution Anaconda gerade im Data Science-Umfeld. Alle im Buch verwendeten Beispiele sind für Anaconda getestet, dessen Installation auch erklärt wird. Als nächstes geben die Autoren eine Einführung zur Nutzung des IPython Notebook und erklären dabei auch die Verwendung der auf der Homepage zum Buch zum Download angebotenen Quelltexte und Datensätze. Abgeschlossen wird Teil 1 mit einem kurzen Überblick über die Python-Grundlagen. 
 
+Die weiteren Abschnitte befassen sich nach und nach mit den verschiedenen Schritten, die man beim Arbeiten mit großen Datenmengen üblicherweise durchlaufen muss. Zunächst werden dafür im zweiten Teil verschiedene Möglichkeiten aufgezeigt, unterschiedliche Datenformate, z.B. Texte oder Bilder aus lokalen oder Online-Quellen zu öffnen und zu lesen.
 
 
+A1. Stil
 
+Der Schreibstil ist im Vergleich zu vielen anderen Büchern der "... for Dummies"-Bücher eher nüchtern und sachlich. Man kann dem Inhalt sprachlich auch dann gut folgen, wenn man die englische Sprache nicht seine Muttersprache nennen kann. 
 
-
+Die Code-Beispiele werden nicht Zeile für Zeile durchgearbeitet, sondern eher die Konzepte dahinter erklärt, so dass man gut folgen kann, für die Details aber wohl noch mal in die Dokumentation schauen muss. 
 A1. Kritik
 
 A1. Fazit
