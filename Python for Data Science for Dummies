@@ -16,13 +16,14 @@ Das Buch setzt sich im wesentlichen aus fünf Teilen zusammen. Der erste Teil mi
 Die weiteren Abschnitte befassen sich nach und nach mit den verschiedenen Schritten, die man beim Arbeiten mit großen Datenmengen üblicherweise durchlaufen muss. Zunächst werden dafür im zweiten Teil verschiedene Möglichkeiten aufgezeigt, unterschiedliche Datenformate, z.B. Texte oder Bilder aus lokalen oder Online-Quellen zu öffnen und zu lesen. Dem logischen Ablauf entsprechend behandeln das nächste Kapitel die Aufbereitung und Vereinheitlichung der eingelesenen Daten. Die Autoren erläutern hier die unter anderem die Validierung und Transformierung von Daten, um einen einheitlichen Aufbau der eingelesenen Datensätze zu gewährleisten. Hierfür werden oft die Funktionen der Pandas-Bibliothek[en]{http://pandas.pydata.org/} genutzt.
 
 
+
 A1. Stil
 
 Der Schreibstil ist im Vergleich zu vielen anderen Büchern der "... for Dummies"-Bücher eher nüchtern und sachlich. Man kann dem Inhalt sprachlich auch dann gut folgen, wenn man die englische Sprache nicht seine Muttersprache nennen kann. 
 
 Die Code-Beispiele werden nicht Zeile für Zeile durchgearbeitet, sondern eher die Konzepte dahinter erklärt, so dass man gut folgen kann, für die Details aber wohl noch mal in die Dokumentation schauen muss. 
 A1. Kritik
-
+Das Buch behandelt das Thema Data Science auf zwei Ebenen. Zum einen wird viel und ausführlich die generelle Herangehensweise an die Analyse von großen Datenmengen beschrieben. Gerade hier werden viele Aspekte wiederholt angesprochend und auch mehrmals erklärt, was spätestens beim dritten Leser aber eher nervt als hilft. Auf der zweiten Ebene wird das Arbeiten mit Python erklärt. Zu Beginn des Buches findet sich eine kurze Einführung in Python, die aber bei weitem nicht ausreichend ist, um die Beispiele im Buch nutzen zu können. Mitten im Buch finden sich dann relativ zusammenhangslos weitere Abschnitte mit Python-Grundlagen, wie im achten Kapitel das Thema Arrays und Operationen mit ihnen. 
 A1. Fazit
  
 
