@@ -27,6 +27,8 @@ Der Schreibstil ist im Vergleich zu vielen anderen Büchern der "... for Dummies
 Die Code-Beispiele werden nicht Zeile für Zeile durchgearbeitet, sondern eher die Konzepte dahinter erklärt, so dass man gut folgen kann, für die Details aber wohl noch mal in die Dokumentation schauen muss. 
 A1. Kritik
 Das Buch behandelt das Thema Data Science auf zwei Ebenen. Zum einen wird viel und ausführlich die generelle Herangehensweise an die Analyse von großen Datenmengen beschrieben. Gerade hier werden viele Aspekte wiederholt angesprochend und auch mehrmals erklärt, was spätestens beim dritten Leser aber eher nervt als hilft. Auf der zweiten Ebene wird das Arbeiten mit Python erklärt. Zu Beginn des Buches findet sich eine kurze Einführung in Python, die aber bei weitem nicht ausreichend ist, um die Beispiele im Buch nutzen zu können. Mitten im Buch finden sich dann relativ zusammenhangslos weitere Abschnitte mit Python-Grundlagen, wie im achten Kapitel das Thema Arrays und Operationen mit ihnen. 
+
+Das Buch fällt etwas aus der "... for Dummies"-Reihe heraus. Zum einen ist der Schreibstil sehr sachlich und nicht so flapsig, dazu ohne die sonst üblichen kleinen Scherze. Zum anderen setzt es doch einiges an Vorwissen voraus. Man erhält zwar eine einigermaßen gute Einführung in die Datenanalyse, aber es wird an vielen Stellen Vorwissen verlangt. Vor allem sollte man aber Python schon vorher beherrschen, denn die kurzen und übers Buch verteilten Einführungen in Python reichen nicht weit.
 A1. Fazit
  
 
