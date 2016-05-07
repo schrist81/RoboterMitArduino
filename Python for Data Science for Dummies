@@ -19,18 +19,22 @@ Der nächste Teil zeigt die Grundlagen für die Benutzung der matplotlib-Bibliot
 
 Im vierten Teil werden die gesammelten Daten mit komplexeren Methoden für Maschinenlerntechnicken aufbereitet. Hauptsächlich wird hierfür das package scikit-learn mit seinen Klassen und Interfaces erläutert. Einen größeren Abschnitt nimmt die statistische Betrachtung der Daten ein, zum Beispiel ob die Daten eines Datensatzes normalverteilt sind und auch die Darstellung mittels Boxplots, um die Qualität der Datensätze visuell beurteilen zu können. Deutlich tiefer in die Mathematik wird anschließend geht es anschließend mit dem Clustern von Daten, Singulärwertzerlegung und Hauptkomponentenanalyse weiter, um zum Beispiel Empfehlungsalgorithmen oder Bilderkennungssysteme anzuwenden.
 
+Der fünfte Teil beschäftigt sich im Wesentlichen mit Regressionsanalysen, Transformationen und Modellierung. Daran schließt sich der Anhang an, der viele zusätzliche Internetseiten und Bücher mit weiterführenden Informationen nennt.
+
 
 A1. Stil
 
-Der Schreibstil ist im Vergleich zu vielen anderen Büchern der "... for Dummies"-Bücher eher nüchtern und sachlich. Man kann dem Inhalt sprachlich auch dann gut folgen, wenn man die englische Sprache nicht seine Muttersprache nennen kann. 
+Der Schreibstil ist im Vergleich zu vielen anderen Büchern der "... for Dummies"-Bücher untypisch sehr nüchtern und sachlich. Man kann dem Buch gut folgen, auch wenn Englisch nicht die Muttersprache ist, wobei es mit Sicherheit hilft, sich schon etwas auszkennen, um mit den entsprechenden technischen Begriffen auch etwas anfangen zu können.
 
-Die Code-Beispiele werden nicht Zeile für Zeile durchgearbeitet, sondern eher die Konzepte dahinter erklärt, so dass man gut folgen kann, für die Details aber wohl noch mal in die Dokumentation schauen muss. 
+Es werden relative wenige Code-Beispiele aufgelistet und diese werden auch nicht Zeile für Zeile durchgearbeitet, sondern eher die Konzepte dahinter erklärt. 
+
 A1. Kritik
 Das Buch behandelt das Thema Data Science auf zwei Ebenen. Zum einen wird viel und ausführlich die generelle Herangehensweise an die Analyse von großen Datenmengen beschrieben. Gerade hier werden viele Aspekte wiederholt angesprochend und auch mehrmals erklärt, was spätestens beim dritten Leser aber eher nervt als hilft. Auf der zweiten Ebene wird das Arbeiten mit Python erklärt. Zu Beginn des Buches findet sich eine kurze Einführung in Python, die aber bei weitem nicht ausreichend ist, um die Beispiele im Buch nutzen zu können. Mitten im Buch finden sich dann relativ zusammenhangslos weitere Abschnitte mit Python-Grundlagen, wie im achten Kapitel das Thema Arrays und Operationen mit ihnen. 
 
-Das Buch fällt etwas aus der "... for Dummies"-Reihe heraus. Zum einen ist der Schreibstil sehr sachlich und nicht so flapsig, dazu ohne die sonst üblichen kleinen Scherze. Zum anderen setzt es doch einiges an Vorwissen voraus. Man erhält zwar eine einigermaßen gute Einführung in die Datenanalyse, aber es wird an vielen Stellen Vorwissen verlangt. Vor allem sollte man aber Python schon vorher beherrschen, denn die kurzen und übers Buch verteilten Einführungen in Python reichen nicht weit.
+Das Buch fällt etwas aus der "... for Dummies"-Reihe heraus. Zum einen ist der Schreibstil sehr sachlich und nicht so flapsig, dazu ohne die sonst üblichen kleinen Scherze. Zum anderen setzt es doch einiges an Vorwissen voraus. Man erhält zwar eine einigermaßen gute Einführung in die Datenanalyse, aber es wird an vielen Stellen Vorwissen verlangt. Dieses gilt sowohl für Python als auch die entsprechenden Bereiche der Mathematik. Man kann das Buch zwar auch ohne dieses Vorwissen lesen, um die grundlegenden Aspekte von datenwissenschaftlichen Analysen kennenzulernen, wird aber ohne Vorwissen oder andere Literatur auf Dauer nicht weit kommen. 
+
 A1. Fazit
- 
+Für mich ist dies eines der schwächeren Bücher aus der "... for dummies"-Reihe. Das Buch setzt für ein Dummies-Buch viel Vorwissen voraus und fällt auch sprachlich aus der Reihe. Wenn man gute Python-Kenntnisse und entsprechende mathematische Grundlagen mitbringt, kann man diesem Buch aber durchaus gut in die Datenwissenschaften einsteigen.
 
 Python for Data Science For Dummies{http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118844181.html}
 John Paul Mueller, Luca Massaron
