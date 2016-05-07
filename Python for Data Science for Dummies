@@ -17,19 +17,19 @@ Die weiteren Teile befassen sich nach und nach mit den verschiedenen Schritten, 
 
 Der nächste Teil zeigt die Grundlagen für die Benutzung der matplotlib-Bibliothek[en]{http://matplotlib.org/}, damit der Datenanalyst seine Analysen auch anschaulich darstellen kann. Einfaches Plotten wird erklärt, aber auch die Erstellung von Kuchendiagrammen, Streudiagrammen und weiteren Diagrammtypen wie zum Beispiel geografischen Karten unter Verwendung des Basemap-Toolkits wird kurz erläutert. Merkwürdigerweise folgt dann ein weiteres Grundlagenkapitel, das weitere Details der Nutzung von IPython aufzeigt. Diese mögen zwar nützlich sein, passen aber vom inhaltlichen Ablauf überhaupt nicht an diese Stelle des Buches, sondern wären am Anfang des Buches deutlich besser aufgehoben gewesen. 
 
-Im vierten Teil werden die gesammelten Daten mit komplexeren Methoden für Maschinenlerntechnicken aufbereitet. Hauptsächlich wird hierfür das package scikit-learn mit seinen Klassen und Interfaces erläutert. Einen größeren Abschnitt nimmt die statistische Betrachtung der Daten ein, zum Beispiel ob die Daten eines Datensatzes normalverteilt sind und auch die Darstellung mittels Boxplots, um die Qualität der Datensätze visuell beurteilen zu können. Deutlich tiefer in die Mathematik wird anschließend geht es anschließend mit dem Clustern von Daten, Singulärwertzerlegung und Hauptkomponentenanalyse weiter, um zum Beispiel Empfehlungsalgorithmen oder Bilderkennungssysteme anzuwenden.
+Im vierten Teil werden die gesammelten Daten mit komplexeren Methoden für Maschinenlerntechniken aufbereitet. Hauptsächlich wird hierfür das package scikit-learn mit seinen Klassen und Interfaces erläutert. Einen größeren Abschnitt nimmt die statistische Betrachtung der Daten ein, zum Beispiel ob die Daten eines Datensatzes normalverteilt sind und auch die Darstellung mittels Boxplots, um die Qualität der Datensätze visuell beurteilen zu können. Deutlich tiefer in die Mathematik wird anschließend geht es anschließend mit dem Clustern von Daten, Singulärwertzerlegung und Hauptkomponentenanalyse weiter, um zum Beispiel Empfehlungsalgorithmen oder Bilderkennungssysteme anzuwenden.
 
 Der fünfte Teil beschäftigt sich im Wesentlichen mit Regressionsanalysen, Transformationen und Modellierung. Daran schließt sich der Anhang an, der viele zusätzliche Internetseiten und Bücher mit weiterführenden Informationen nennt.
 
 
 A1. Stil
 
-Der Schreibstil ist im Vergleich zu vielen anderen Büchern der "... for Dummies"-Bücher untypisch sehr nüchtern und sachlich. Man kann dem Buch gut folgen, auch wenn Englisch nicht die Muttersprache ist, wobei es mit Sicherheit hilft, sich schon etwas auszkennen, um mit den entsprechenden technischen Begriffen auch etwas anfangen zu können.
+Der Schreibstil ist im Vergleich zu vielen anderen Büchern der "... for Dummies"-Bücher untypisch sehr nüchtern und sachlich. Man kann dem Buch gut folgen, auch wenn Englisch nicht die Muttersprache ist, wobei es mit Sicherheit hilft, sich schon etwas auszukennen, um mit den entsprechenden technischen Begriffen auch etwas anfangen zu können.
 
 Es werden relative wenige Code-Beispiele aufgelistet und diese werden auch nicht Zeile für Zeile durchgearbeitet, sondern eher die Konzepte dahinter erklärt. 
 
 A1. Kritik
-Das Buch behandelt das Thema Data Science auf zwei Ebenen. Zum einen wird viel und ausführlich die generelle Herangehensweise an die Analyse von großen Datenmengen beschrieben. Gerade hier werden viele Aspekte wiederholt angesprochend und auch mehrmals erklärt, was spätestens beim dritten Leser aber eher nervt als hilft. Auf der zweiten Ebene wird das Arbeiten mit Python erklärt. Zu Beginn des Buches findet sich eine kurze Einführung in Python, die aber bei weitem nicht ausreichend ist, um die Beispiele im Buch nutzen zu können. Mitten im Buch finden sich dann relativ zusammenhangslos weitere Abschnitte mit Python-Grundlagen, wie im achten Kapitel das Thema Arrays und Operationen mit ihnen. 
+Das Buch behandelt das Thema Data Science auf zwei Ebenen. Zum einen wird viel und ausführlich die generelle Herangehensweise an die Analyse von großen Datenmengen beschrieben. Gerade hier werden viele Aspekte wiederholt angesprochen und auch mehrmals erklärt, was spätestens beim dritten Leser aber eher nervt als hilft. Auf der zweiten Ebene wird das Arbeiten mit Python erklärt. Zu Beginn des Buches findet sich eine kurze Einführung in Python, die aber bei weitem nicht ausreichend ist, um die Beispiele im Buch nutzen zu können. Mitten im Buch finden sich dann relativ zusammenhangslos weitere Abschnitte mit Python-Grundlagen, wie im achten Kapitel das Thema Arrays und Operationen mit ihnen. 
 
 Das Buch fällt etwas aus der "... for Dummies"-Reihe heraus. Zum einen ist der Schreibstil sehr sachlich und nicht so flapsig, dazu ohne die sonst üblichen kleinen Scherze. Zum anderen setzt es doch einiges an Vorwissen voraus. Man erhält zwar eine einigermaßen gute Einführung in die Datenanalyse, aber es wird an vielen Stellen Vorwissen verlangt. Dieses gilt sowohl für Python als auch die entsprechenden Bereiche der Mathematik. Man kann das Buch zwar auch ohne dieses Vorwissen lesen, um die grundlegenden Aspekte von datenwissenschaftlichen Analysen kennenzulernen, wird aber ohne Vorwissen oder andere Literatur auf Dauer nicht weit kommen. 
 
@@ -43,5 +43,5 @@ Wiley-VCH, 2015
 ISBN 978-1-118-84418-2
 27,30 € (Print), 22,99 € (E-Book)
 
-Autoreninformation: Christian Schell
+Autoreninformation: Christian Schnell
 nutzt Python häufig zur Programmierung von Programmen, um die Analyse von neurowissenschaftlichen Experimenten im Labor zu automatisieren. 
